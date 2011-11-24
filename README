@@ -1,0 +1,3 @@
+This is a simple MDP Value Iteration Solver along with functions to create and visualize "GridWorld"
+The MDP data structure and solver is pretty general, and can be applied to any MDP.
+Take a look at test/Test.hs for an example run.
